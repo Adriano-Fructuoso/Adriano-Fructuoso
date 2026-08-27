@@ -1,7 +1,7 @@
 # Adriano Fructuoso
 
-**Analista de Governança de IA & Automação | AI Governance Analyst**  
-Belo Horizonte, MG, Brasil &bull; Open to Remote
+**AI Governance & Automation Analyst**  
+Belo Horizonte, MG, Brazil &bull; Open to Remote
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adriano-fructuoso)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adriano.fructuoso.97@gmail.com)
@@ -9,33 +9,34 @@ Belo Horizonte, MG, Brasil &bull; Open to Remote
 
 ---
 
-### Sobre mim
+### About Me
 
-Atuo como **Analista de Governança de IA** na Feluma (Fundação Educacional Lucas Machado), estruturando políticas corporativas para uso seguro de inteligência artificial, avaliação de riscos e automação de processos operacionais.
+AI Governance Analyst at Feluma (Lucas Machado Educational Foundation), structuring corporate policies for safe artificial intelligence adoption, risk assessment, and operational process automation.
 
-Minha experiência técnica é focada em **Python para dados e automação**, estruturação de fluxos (n8n), classificação de dados com Regex, consumo de APIs REST e testes de validação de rotinas.
-
----
-
-### Áreas de Atuação e Competências
-
-- **Governança e Risco de IA:** Criação de procedimentos operacionais padrão (POPs), avaliação de conformidade (LGPD, ITIL) e diretrizes para uso corporativo de LLMs.
-- **Automação e Dados com Python:** Scripts de processamento e conciliação de dados (Pandas, SQLite), integração de APIs REST, regex e rotinas de automação.
-- **Testes e Confiabilidade:** Validação de regras de negócio e suites de testes automatizados (`pytest`) para scripts e bots.
+Technical background centered on **Python for data processing and automation**, workflow architecture (n8n), text classification with Regex, REST API consumption, and unit testing routines (`pytest`).
 
 ---
 
-### Projetos Públicos
+### Core Competencies & Focus Areas
 
-- **[bot_habitos](https://github.com/Adriano-Fructuoso/bot_habitos):** Bot em Python para Telegram com testes automatizados de confiabilidade (rate limiting, idempotência, sanitização e health checks).
-- **[lionofjuda](https://github.com/Adriano-Fructuoso/lionofjuda):** Estrutura web em Astro e TypeScript com Docker Compose e ESLint.
+- **AI Governance & Compliance:** Standard Operating Procedures (SOPs), regulatory compliance alignment (LGPD, ITIL), and corporate risk guidelines for LLM usage.
+- **Python & Data Automation:** Scripts for data reconciliation, parsing, and ETL (Pandas, SQLite), REST API consumption, Regex pattern matching, and task automation.
+- **Testing & Reliability:** Business logic validation and automated testing suites (`pytest`) ensuring script idempotency, rate limiting, and exception handling.
 
 ---
 
-### Formação Acadêmica
+### Public Projects
 
-- **MSc Candidate em Digital Business & IA:** AGTU / Hub IBS
-- **MBA Executivo em Gestão de TI:** FGV (Fundação Getulio Vargas)
-- **Bacharelado em Sistemas de Informação:** FIAP (Média: 9,4 / 10,0)
-- **Pós-Graduação em Gestão de Produtos Digitais:** FIAP (Média: 9,3 / 10,0)
-- **Inglês:** C2 Proficiente (Certificado EF SET: 80/100)
+- **[bot_habitos](https://github.com/Adriano-Fructuoso/bot_habitos):** Python Telegram bot built with automated test coverage for reliability (rate limiting, idempotency handling, input sanitization, and health checks).
+- **[lionofjuda](https://github.com/Adriano-Fructuoso/lionofjuda):** Web structure built with Astro and TypeScript using Docker Compose and ESLint.
+
+---
+
+### Education & Certifications
+
+- **MSc Candidate in Digital Business & AI:** AGTU / Hub IBS
+- **Executive MBA in IT Management:** FGV (Fundação Getulio Vargas, Brazil)
+- **B.S. in Information Systems:** FIAP (Brazil) &bull; *GPA: 9.4 / 10.0*
+- **Postgraduate Degree in Digital Product Management:** FIAP (Brazil) &bull; *GPA: 9.3 / 10.0*
+- **High School Exchange Program:** Richmond Academy (Nova Scotia, Canada)
+- **English Proficiency:** C2 Proficient (*EF SET Certificate: 80/100*)
